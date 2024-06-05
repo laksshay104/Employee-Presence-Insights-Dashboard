@@ -1,0 +1,11 @@
+- The project involves analyzing real data from a hardware company named AtliQ.
+- The dataset was obtained online as an Excel file and imported into Power BI.
+- Identified and fixed mistakes, such as new column for each date.
+- In Power BI, DAX (Data Analysis Expressions) is used to create custom measures.
+- Key measures include:
+- Sick Leave Percentage
+- Attendence Percentage
+- Work From Home Percentage
+- Developed a dynamic Employee Presence analysis and his preffered mode of work dashboard in Power BI.
+- Visualized Sick Leave Percentage, Attendence Percentage and Work From Home Percentage Measures.
+- Provided actionable insights for informed decision-making and business growth.
